@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://20000yshust.github.io/al-folio/sitemap.xml
