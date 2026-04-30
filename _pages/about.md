@@ -22,4 +22,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a Research Engineer at Z.ai, focusing on post-training techniques for Vision-Language Models (VLMs), with particular emphasis on Reward Models and General Reinforcement Learning. I hold a Master's degree from Tsinghua University and a Bachelor's degree from Huazhong University of Science and Technology (HUST).
+I am a Research Engineer at Z.ai, working on post-training methods for Vision-Language Models (VLMs), with a focus on reward modeling, reinforcement learning, and multimodal reasoning. As a core contributor, I have contributed to GLM-4.1V, GLM-4.5V, GLM-4.6V, GLM-5V-Turbo, and GLM-OCR. My research interests include scalable VLM post-training, model alignment, and robust multimodal understanding. I received my Master's degree from Tsinghua University and my Bachelor's degree from Huazhong University of Science and Technology (HUST).
